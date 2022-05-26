@@ -13,3 +13,5 @@ CSS utility classes come in handy when you to want to override default styles to
 {: .fs-6 .fw-300 }
 
 
+[![](../../assets/images/kr10.jpg)](technologies/kr10).
+
