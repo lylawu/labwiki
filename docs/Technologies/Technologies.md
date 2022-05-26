@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Utilities
+title: Technologies
 nav_order: 4
-has_children: true
-permalink: docs/utilities
+has_children: false
+permalink: docs/technologies
 ---
 
 # Utilities
@@ -11,3 +11,5 @@ permalink: docs/utilities
 
 CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
 {: .fs-6 .fw-300 }
+
+[Link to another page](kr10).
