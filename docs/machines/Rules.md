@@ -8,5 +8,5 @@ permalink: /docs/catalog
 
 # Lab rules & Safety
 
-List of Lab equipment, tools and machines.
+Rules and Safety procedures of the RDF Lab.
 {: .fs-6 .fw-300 }
