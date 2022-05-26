@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Equipment
-nav_order: 3
-has_children: true
+title: Rules
+nav_order: 2
+has_children: false
 permalink: /docs/catalog
 ---
 
-# UI Components
+# Lab rules & Safety
 
 List of Lab equipment, tools and machines.
 {: .fs-6 .fw-300 }
