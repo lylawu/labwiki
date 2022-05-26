@@ -14,10 +14,10 @@ CSS utility classes come in handy when you to want to override default styles to
 
 
 [![](../../assets/images/kr10.jpg)](technologies/kr10).
-[![](../../assets/images/kr10.jpg)](technologies/kr10).
+[![](../../assets/images/ur10e.jpg)](technologies/kr10).
 
 
-[![](../../assets/images/kr10.jpg)](technologies/kr10).
+[![](../../assets/images/ur10e.jpg)](technologies/kr10).
 [![](../../assets/images/kr10.jpg)](technologies/kr10).
 
 
