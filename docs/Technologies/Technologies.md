@@ -18,6 +18,6 @@ CSS utility classes come in handy when you to want to override default styles to
 
 
 [![](../../assets/images/ur10e.jpg)](technologies/kr10).
-[![](../../assets/images/ur16.jpg)](technologies/kr10).
+[![](../../assets/images/ur16e.jpg)](technologies/kr10).
 
 
