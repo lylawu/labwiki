@@ -6,12 +6,13 @@ has_children: false
 permalink: docs/technologies
 ---
 
-# Utilities
+# Technologies
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+A list of all the various pieces of equipment
 {: .fs-6 .fw-300 }
 
+## Robots
 
 [![](../../assets/images/kr10.jpg)](technologies/kr10).
 [![](../../assets/images/kr30.jpg)](technologies/kr10).
@@ -20,4 +21,5 @@ CSS utility classes come in handy when you to want to override default styles to
 [![](../../assets/images/ur10e.jpg)](technologies/kr10).
 [![](../../assets/images/ur16e.jpg)](technologies/kr10).
 
+## 3D printers
 
