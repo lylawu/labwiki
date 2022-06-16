@@ -28,14 +28,14 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
-      <img src="https://picsum.photos/200/200">
+      <img src="https://picsum.photos/360/360">
       <!-- Safe zone ends -->
     </div>
   </div>
   <div class="item">
     <div class="item-content">
       <figure>
-        <img src="https://picsum.photos/50/50">
+        <img src="https://picsum.photos/360/360">
         <figcaption>Caption goes here</figcaption>
       </figure>
     </div>
