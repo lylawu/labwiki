@@ -28,7 +28,7 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
-      <input type="image" src="/labwiki/assets/images/kr10.jpg" onclick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr10';">
+      <input type="button" style="background: /labwiki/assets/images/kr10.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr10';" />
       <figcaption style="color: black; text-align: center;">KR10</figcaption>
       <!-- Safe zone ends -->
     </div>
