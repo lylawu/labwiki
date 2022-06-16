@@ -28,7 +28,7 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
-      <img src="../../assets/images/kr10.jpg">
+      <img src="/labwiki/assets/images/kr10.jpg">
       <!-- Safe zone ends -->
     </div>
   </div>
