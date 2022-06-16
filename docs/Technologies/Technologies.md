@@ -28,7 +28,8 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
-      This can be anything.
+      <img
+      src="../../assets/images/ur10e.jpg">
       <!-- Safe zone ends -->
     </div>
   </div>
@@ -45,7 +46,7 @@ A list of all the various pieces of equipment
 <script src="https://cdnjs.cloudflare.com/ajax/libs/web-animations/2.3.2/web-animations.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/haltu/muuri@0.9.3/dist/muuri.min.js"></script>
 <script>
-var grid = new Muuri('.grid');
+    var grid = new Muuri('.grid');
 </script>
 
 
