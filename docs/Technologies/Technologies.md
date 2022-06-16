@@ -13,17 +13,7 @@ A list of all the various pieces of equipment
 {: .fs-6 .fw-300 }
 
 ## Robots
-
-[![](../../assets/images/kr10.jpg)](technologies/kr10).
-[![](../../assets/images/kr30.jpg)](technologies/kr10).
-
-
-[![](../../assets/images/ur10e.jpg)](technologies/kr10).
-[![](../../assets/images/ur16e.jpg)](technologies/kr10).
-
-## 3D printers
-[![](../../assets/images/prusa3.jpg)](technologies/kr10).
-[![](../../assets/images/formlab2.jpg)](technologies/kr10).
+The various robotic arms that can be found in the lab.
 <div class="grid">
   <div class="item">
     <div class="item-content">
@@ -36,8 +26,8 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <figure>
-        <img src="/labwiki/assets/images/kr30.jpg">
-        <figcaption style="color: black; text-align: center;">Caption goes here</figcaption>
+        <img id="Img" src="/labwiki/assets/images/kr30.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr10';" style="cursor:pointer;" />
+      <figcaption style="color: black; text-align: center;">KR30</figcaption>
       </figure>
     </div>
   </div>
@@ -47,5 +37,7 @@ A list of all the various pieces of equipment
 <script>
     var grid = new Muuri('.grid');
 </script>
-
+## 3D printers
+[![](../../assets/images/prusa3.jpg)](technologies/kr10).
+[![](../../assets/images/formlab2.jpg)](technologies/kr10).
 
