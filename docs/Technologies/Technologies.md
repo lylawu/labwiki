@@ -24,7 +24,6 @@ A list of all the various pieces of equipment
 ## 3D printers
 [![](../../assets/images/prusa3.jpg)](technologies/kr10).
 [![](../../assets/images/formlab2.jpg)](technologies/kr10).
-<link rel="stylesheet" href="gridstyle.css">
 <div class="grid">
   <div class="item">
     <div class="item-content">
