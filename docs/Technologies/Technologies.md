@@ -28,14 +28,15 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
-      <img src="/labwiki/assets/images/kr10.jpg">
+      <input type="image" src="/labwiki/assets/images/kr10.jpg" />
+      <figcaption style="color: black; text-align: center;">KR10</figcaption>
       <!-- Safe zone ends -->
     </div>
   </div>
   <div class="item">
     <div class="item-content">
       <figure>
-        <img src="https://picsum.photos/360/360">
+        <img src="/labwiki/assets/images/kr30.jpg">
         <figcaption style="color: black; text-align: center;">Caption goes here</figcaption>
       </figure>
     </div>
