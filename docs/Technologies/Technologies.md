@@ -34,11 +34,10 @@ A list of all the various pieces of equipment
   </div>
   <div class="item">
     <div class="item-content">
-      <!-- Safe zone, enter your custom markup -->
-      <div class="my-custom-content">
-        Test
-      </div>
-      <!-- Safe zone ends -->
+      <figure>
+        <img src="https://picsum.photos/200/200">
+        <figcaption>Caption goes here</figcaption>
+      </figure>
     </div>
   </div>
 </div>
