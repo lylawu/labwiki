@@ -28,7 +28,7 @@ A list of all the various pieces of equipment
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
-      <img src="/assets/images/ur10e.jpg">
+      <img src="https://picsum.photos/200/300">
       <!-- Safe zone ends -->
     </div>
   </div>
