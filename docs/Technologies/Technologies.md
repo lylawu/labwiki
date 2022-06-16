@@ -36,7 +36,7 @@ A list of all the various pieces of equipment
     <div class="item-content">
       <figure>
         <img src="https://picsum.photos/360/360">
-        <figcaption>Caption goes here</figcaption>
+        <figcaption style="color: black;">Caption goes here</figcaption>
       </figure>
     </div>
   </div>
