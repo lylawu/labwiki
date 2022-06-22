@@ -71,8 +71,9 @@ The different printers available for use
     </div>
   </div>
 </div>
+## Testing
+Test info
 <script>
     var grid = new Muuri('.grid');
     var printerGrid = new Muuri('.grid');
 </script>
-## Testing
