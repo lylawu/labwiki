@@ -6,7 +6,7 @@ has_children: false
 permalink: /docs/technologies/prusa3
 ---
 
-# Kuka KR 30 R1100 Sixx
+# PRUSA i3 MK3
 
 ## Location
 
@@ -36,7 +36,7 @@ Heated build Chamber
 - New Y axis: gives the 3D printer a smoother look and a sturdier frame.
 - Bondtech extruder: dual gears ensure a reliable grip on the filament to prevent filament from slipping. The extruder can reach up to 300C.
 
-## Slicing Information
+## Slicing Information  
 
 | Technical specifications      | Details               |
 |:------------------------------|:----------------------|

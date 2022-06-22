@@ -54,6 +54,7 @@ The various robotic arms that can be found in the lab.
     var grid = new Muuri('.grid');
 </script>
 ## 3D printers
-The different printers available for use
+The different printers available for use  
+
 [![](../../assets/images/prusa3.jpg)](technologies/prusa3).
 [![](../../assets/images/formlab2.jpg)](technologies/formlab2).
