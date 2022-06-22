@@ -32,6 +32,7 @@ Heated build Chamber
  - Lets the user know when the filament is running out and pauses the 3D print.
  - Detects filament jams and stops the 3D printing process.
 - Power panic: if there is a power outage, the MK3 will go back to where it last left off when the power is back. This feature works without batteries.
+- Sensing fans and Noctua: for more silence when 3D printing. Also, cooling from both sides of the extruder increases the 3D printer’s overhang performance.
 
 
 
