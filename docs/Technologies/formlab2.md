@@ -1,0 +1,25 @@
+---
+layout: default
+title: Formlab2
+nav_exclude: true
+has_children: false
+permalink: /docs/technologies/formlab2
+---
+
+# Formlab 2
+
+##Location
+Main Lab, 6 printers
+
+##Technical Details
+**Maximum Payload:** 30kg
+**Reach:** 2033mm
+**Axis Data:**
+* Axis 1: &plusmn;185&deg;
+* Axis 2: -135&deg; / +35&deg;
+* Axis 3: -120&deg; / +156&deg;
+* Axis 4: &plusmn;350&deg;
+* Axis 5: &plusmn;119&deg;
+* Axis 6: &plusmn;350&deg;
+
+{: .fs-6 .fw-300 }
