@@ -23,14 +23,14 @@ Heated build Chamber
 ## Features
 
 - Magnetic bed with swappable steel sheets:
-	- For easy and quick 3D print removal.
-		- 3 Types: smooth, textured and satin which do not require surface preparation (i.e., glue, tape)
-	- The flexible steel sheets have a PEI powder coating.
-	- The print bed can reach up to 100C.
+  - For easy and quick 3D print removal.
+    - 3 Types: smooth, textured and satin which do not require surface preparation (i.e., glue, tape)
+  - The flexible steel sheets have a PEI powder coating.
+  - The print bed can reach up to 100C.
 - Optical filament sensor:
-	- Enables automatic filament loading.
-	- Lets the user know when the filament is running out and pauses the 3D print.
-	- Detects filament jams and stops the 3D printing process.
+  - Enables automatic filament loading.
+  - Lets the user know when the filament is running out and pauses the 3D print.
+  - Detects filament jams and stops the 3D printing process.
 - Power panic: if there is a power outage, the MK3 will go back to where it last left off when the power is back. This feature works without batteries.
 - Sensing fans and Noctua: for more silence when 3D printing. Also, cooling from both sides of the extruder increases the 3D printer&#39;s overhang performance.
 - New Y axis: gives the 3D printer a smoother look and a sturdier frame.
