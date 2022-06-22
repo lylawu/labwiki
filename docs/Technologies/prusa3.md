@@ -36,7 +36,18 @@ Heated build Chamber
 - New Y axis: gives the 3D printer a smoother look and a sturdier frame.
 - Bondtech extruder: dual gears ensure a reliable grip on the filament to prevent filament from slipping. The extruder can reach up to 300C.
 
-
-
+## Slicing Information
+| Technical specifications      | Details               |
+|:------------------------------|:----------------------|
+| File Dormat                   | STL, AMF              |
+| Print Volume                  | 250mm x 210mm x 210mm |
+| Minimum Layer Resolution      | 0.05 mm (0.002 inch)  |
+| Max Print Speed               | 200 mm/sec            |
+| Nozzle Diameter               | 0.4mm                 |
+| X/Y Axis                      | 0.01 mm/step          |
+| Z Axis                        | 0.05 mm/step          |
+| Filament Diameter             | 1.75 mm               |
+| Hardware Dimensions           | 420 x 420 x 380 mm    |
+| Connectivity                  | SD Card               |
 
 {: .fs-6 .fw-300 }
