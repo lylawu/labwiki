@@ -27,7 +27,10 @@ Heated build Chamber
   - 3 Types: smooth, textured and satin which do not require surface preparation (i.e., glue, tape)
  - The flexible steel sheets have a PEI powder coating.
  - The print bed can reach up to 100C.
-
+- Optical filament sensor:
+ - Enables automatic filament loading.
+ - Lets the user know when the filament is running out and pauses the 3D print.
+ - Detects filament jams and stops the 3D printing process.
 
 
 
