@@ -42,7 +42,7 @@ The various robotic arms that can be found in the lab.
   <div class="item">
     <div class="item-content">
       <figure>
-        <img id="Img" src="/labwiki/assets/images/ur16e.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr10';" style="cursor:pointer;" />
+        <img id="Img" src="/labwiki/assets/images/ur16e.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/ur16e';" style="cursor:pointer;" />
       <figcaption style="color: black; text-align: center;">UR16e</figcaption>
       </figure>
     </div>

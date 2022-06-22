@@ -9,17 +9,17 @@ permalink: /docs/technologies/ur16e
 # Kuka KR 10 R1100 Sixx
 
 ##Location
-Main Lab, within green cage.
+Main Lab, within green cage, wall mounted.
 
 ##Technical Details
-**Maximum Payload:** 10kg
-**Reach:** 1100mm
+**Maximum Payload:** 16kg
+**Reach:** 900mm
 **Axis Data:**
-* Axis 1: +-170&deg;
-* Axis 2: -190&deg; / 45&deg;
-* Axis 3: -120&deg; / 156&deg;
-* Axis 4: +-185&deg;
-* Axis 5: +-120&deg;
-* Axis 6: +-350&deg;
+* Axis 1: &plusmn;360&deg;
+* Axis 2: &plusmn;360&deg;
+* Axis 3: &plusmn;360&deg;
+* Axis 4: &plusmn;360&deg;
+* Axis 5: &plusmn;360&deg;
+* Axis 6: &plusmn;360&deg;
 
 {: .fs-6 .fw-300 }
