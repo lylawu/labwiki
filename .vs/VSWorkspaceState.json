@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images",
+    "\\docs",
+    "\\_includes\\css",
+    "\\_sass\\custom"
   ],
+  "SelectedNode": "\\assets\\images\\kr10.jpg",
   "PreviewInSolutionExplorer": false
 }
