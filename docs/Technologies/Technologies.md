@@ -91,5 +91,4 @@ The different printers available for use
   <br />
 <script>
     var printerGrid = new Muuri('.grid');
-    
 </script>
