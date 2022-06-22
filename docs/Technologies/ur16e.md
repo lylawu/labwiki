@@ -1,15 +1,15 @@
 ---
 layout: default
-title: KR 10
+title: UR 16e
 nav_exclude: true
 has_children: false
-permalink: /docs/technologies/kr10
+permalink: /docs/technologies/ur16e
 ---
 
 # Kuka KR 10 R1100 Sixx
 
 ##Location
-Main Lab, within white cage.
+Main Lab, within green cage.
 
 ##Technical Details
 **Maximum Payload:** 10kg
