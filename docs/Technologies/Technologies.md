@@ -50,10 +50,7 @@ The various robotic arms that can be found in the lab.
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/web-animations/2.3.2/web-animations.min.js"></script>
 <script src="https://cdn.jsdelivr.net/gh/haltu/muuri@0.9.3/dist/muuri.min.js"></script>
-<script>
-    var grid = new Muuri('.grid');
-    var printerGrid = new Muuri('.grid');
-</script>
+
 ## 3D printers
 The different printers available for use
 <div class="printerGrid">
@@ -74,3 +71,7 @@ The different printers available for use
     </div>
   </div>
 </div>
+<script>
+    var grid = new Muuri('.grid');
+    var printerGrid = new Muuri('.grid');
+</script>
