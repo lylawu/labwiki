@@ -53,7 +53,7 @@ The various robotic arms that can be found in the lab.
 
 ## 3D printers
 The different printers available for use
-<div class="printerGrid">
+<div class="grid">
   <div class="item">
     <div class="item-content">
       <!-- Safe zone, enter your custom markup -->
@@ -90,5 +90,4 @@ The different printers available for use
   <br />
   <br />
 <script>
-    var printerGrid = new Muuri('.grid');
 </script>
