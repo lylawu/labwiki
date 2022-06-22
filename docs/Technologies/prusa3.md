@@ -15,13 +15,16 @@ Main lab, 4 printers
 ## Technical Details
 
 FDM Desktop Fabrication
-**Model:** Original Prusa i3 MK3
-**Brand:** Prusa Research 
-Heated build Chamber
-**Filament used:** PLA, PETG  
+**Model:** Original Prusa i3 MK3  
+**Brand:** Prusa Research  
+Heated build Chamber  
+**Filament used:** PLA, PETG    
 
 ## Features
 
+- Magnetic bed with swappable steel sheets:
+ - For easy and quick 3D print removal.
+  - 3 Types: smooth, textured and satin which do not require surface preparation (i.e., glue, tape)
 
 
 
