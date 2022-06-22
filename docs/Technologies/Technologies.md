@@ -62,14 +62,6 @@ The different printers available for use
       <!-- Safe zone ends -->
     </div>
   </div>
-  <div class="item">
-    <div class="item-content">
-      <figure>
-        <img id="Img" src="/labwiki/assets/images/formlab2.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr30';" style="cursor:pointer;" />
-      <figcaption style="color: black; text-align: center;">KR30</figcaption>
-      </figure>
-    </div>
-  </div>
 </div>
 <script>
     var grid = new Muuri('.grid');
