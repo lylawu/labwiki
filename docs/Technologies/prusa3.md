@@ -37,6 +37,7 @@ Heated build Chamber
 - Bondtech extruder: dual gears ensure a reliable grip on the filament to prevent filament from slipping. The extruder can reach up to 300C.
 
 ## Slicing Information
+
 | Technical specifications      | Details               |
 |:------------------------------|:----------------------|
 | File Dormat                   | STL, AMF              |
