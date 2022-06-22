@@ -10,7 +10,7 @@ permalink: docs/technologies
 {: .no_toc }
 
 A list of all the various pieces of equipment
-{: .fs-6 .fw-300 }
+
 
 ## Robots
 The various robotic arms that can be found in the lab.
