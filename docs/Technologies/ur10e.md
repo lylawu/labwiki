@@ -6,7 +6,7 @@ has_children: false
 permalink: /docs/technologies/ur10e
 ---
 
-# Kuka KR 10 R1100 Sixx
+# UR 10e
 
 ##Location
 Main Lab, within green cage, ceiling mounted.

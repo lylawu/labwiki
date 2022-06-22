@@ -52,8 +52,25 @@ The various robotic arms that can be found in the lab.
 <script src="https://cdn.jsdelivr.net/gh/haltu/muuri@0.9.3/dist/muuri.min.js"></script>
 <script>
     var grid = new Muuri('.grid');
+    var printerGrid = new Muuri('.grid');
 </script>
 ## 3D printers
-[![](../../assets/images/prusa3.jpg)](technologies/kr10).
-[![](../../assets/images/formlab2.jpg)](technologies/kr10).
-
+The different printers available for use
+<div class="printerGrid">
+  <div class="item">
+    <div class="item-content">
+      <!-- Safe zone, enter your custom markup -->
+      <img id="Img" src="/labwiki/assets/images/prusa3.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr10';" style="cursor:pointer;" />
+      <figcaption style="color: black; text-align: center;">KR10</figcaption>
+      <!-- Safe zone ends -->
+    </div>
+  </div>
+  <div class="item">
+    <div class="item-content">
+      <figure>
+        <img id="Img" src="/labwiki/assets/images/formlab2.jpg" onClick="location.href='https://rdflabfiu.github.io/labwiki/docs/technologies/kr30';" style="cursor:pointer;" />
+      <figcaption style="color: black; text-align: center;">KR30</figcaption>
+      </figure>
+    </div>
+  </div>
+</div>
