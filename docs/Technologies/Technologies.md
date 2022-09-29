@@ -18,11 +18,13 @@ RDF machines
 <script>
     var grid = new Muuri('.grid');
 </script>
+
 ## Robots  
 [![](../../assets/images/kr10.jpg)](technologies/kr10)
 [![](../../assets/images/kr30.jpg)](technologies/kr30)
 [![](../../assets/images/ur10e.jpg)](technologies/ur10e)
 [![](../../assets/images/ur16e.jpg)](technologies/ur16e)
+[![](../../assets/images/xarm6.jpg)](technologies/xarm6)
 
 ## 3D printers
 
@@ -32,8 +34,10 @@ RDF machines
 [![](../../assets/images/vcore50.jpg)](technologies/vcore50)
 
 ## AR/VR
-The different printers available for use  
 
 [![](../../assets/images/markforged.jpg)](technologies/markforged)
 
-## Other
+## Sensing and Scanning
+[![](../../assets/images/markforged.jpg)](technologies/markforged)
+
+## Plastic recycling
