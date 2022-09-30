@@ -26,12 +26,30 @@ RDF machines
 [![](../../assets/images/ur16e.jpg)](technologies/ur16e)
 [![](../../assets/images/xarm6.jpg)](technologies/xarm6)
 
+## Robot End effectors
+
+[![](../../assets/images/mdph2.jpg)](technologies/mdph2)
+[![](../../assets/images/mdpe10.jpg)](technologies/mdpe10)
+[![](../../assets/images/rgripper.jpg)](technologies/rgripper)
+[![](../../assets/images/router.jpg)](technologies/router)
+[![](../../assets/images/clay.jpg)](technologies/clay)
+[![](../../assets/images/concrete.jpg)](technologies/concrete)
+
 ## 3D printers
 
 [![](../../assets/images/prusa3.jpg)](technologies/prusa3)
 [![](../../assets/images/formlab2.jpg)](technologies/formlab2)
 [![](../../assets/images/markforged.jpg)](technologies/markforged)
 [![](../../assets/images/vcore50.jpg)](technologies/vcore50)
+[![](../../assets/images/bioprinter.jpg)](technologies/bioprinter)
+
+## Milling and Cutting
+
+[![](../../assets/images/prusa3.jpg)](technologies/prusa3)
+[![](../../assets/images/formlab2.jpg)](technologies/formlab2)
+[![](../../assets/images/markforged.jpg)](technologies/markforged)
+[![](../../assets/images/vcore50.jpg)](technologies/vcore50)
+[![](../../assets/images/biobot.jpg)](technologies/biobot)
 
 ## AR/VR
 
@@ -41,3 +59,6 @@ RDF machines
 [![](../../assets/images/markforged.jpg)](technologies/markforged)
 
 ## Plastic recycling
+
+[![](../../assets/images/markforged.jpg)](technologies/markforged)
+[![](../../assets/images/markforged.jpg)](technologies/markforged)
