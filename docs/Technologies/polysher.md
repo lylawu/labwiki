@@ -3,7 +3,7 @@ layout: default
 title: Polysher Polymaker
 nav_exclude: true
 has_children: false
-permalink: /docs/technologies/ur16e
+permalink: /docs/technologies/polisher
 ---
 
 # Polyser Polymaker
