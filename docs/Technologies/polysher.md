@@ -6,13 +6,25 @@ has_children: false
 permalink: /docs/technologies/polisher
 ---
 
-# Polyser Polymaker
+# Polysher Polymaker
 
 ## Location
 3D print tool bench.
 
 ## Description
 Tool to polish 3D prints made with Polysmooth material, Useful for smooth looking 3D prints. 
+
+## Technical Details
+
+## Features
+
+## Safety
+
+## Setup
+
+## Tutorial
+
+## Troubleshooting
 
 [website](https://us.polymaker.com/products/polysher)
 
