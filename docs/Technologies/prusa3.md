@@ -36,6 +36,12 @@ Heated build Chamber
 - New Y axis: gives the 3D printer a smoother look and a sturdier frame.
 - Bondtech extruder: dual gears ensure a reliable grip on the filament to prevent filament from slipping. The extruder can reach up to 300C.
 
+## Cura Profiles
+
+[PETG ](link.to.profile.here)
+[PLA ](link.to.profile.here)
+
+
 ## Slicing Information  
 
 | Technical specifications      | Details               |
@@ -50,5 +56,31 @@ Heated build Chamber
 | Filament Diameter             | 1.75 mm               |
 | Hardware Dimensions           | 420 x 420 x 380 mm    |
 | Connectivity                  | SD Card               |
+
+
+# PETG recomended settings
+
+| Technical specifications      | Details               |
+|:------------------------------|:----------------------|
+| Temperature                   | 225  C                |
+| Bed Temperature               | 90   C                |
+| Print surface                 | PEI                   |
+| Suggested resolution          | 0.2 , 0.3 mm          |
+| Fan Speed                     | 50%                   |
+| Wall thickness                | 1.2mm (3 lines)       |
+
+# PLA recomended settings
+
+| Technical specifications      | Details               |
+|:------------------------------|:----------------------|
+| Temperature                   | 110  C                |
+| Bed Temperature               | 65   C                |
+| Print surface                 | PEI, Blue tape        |
+| Suggested resolution          | 0.2 , 0.3 mm          |
+| Fan Speed                     | 100%                  |
+| Wall thickness                | 1.2mm (3 lines)       |
+
+
+
 
 {: .fs-6 .fw-300 }
