@@ -3,7 +3,7 @@ layout: default
 title: Bantam Tools CNC
 nav_exclude: true
 has_children: false
-permalink: /docs/technologies/bantam
+permalink: /docs/technologies/bantamcnc
 ---
 
 # Bantam Tools Desktop CNC
