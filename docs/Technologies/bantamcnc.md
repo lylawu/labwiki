@@ -1,25 +1,24 @@
 ---
 layout: default
-title: UFactory  X-arm
+title: Bantam Tools CNC
 nav_exclude: true
 has_children: false
-permalink: /docs/technologies/xarm
+permalink: /docs/technologies/bantam
 ---
 
-# Xarm
+# Bantam Tools Desktop CNC
 
-##Location
+## Location
 Main Lab, PCA131.
 
-##Technical Details
-**Maximum Payload:** 5 kg
-**Reach:** 700mm
-**Axis Data:**
-* Axis 1: &plusmn;360&deg;
-* Axis 2: &plusmn;360&deg;
-* Axis 3: &plusmn;360&deg;
-* Axis 4: &plusmn;360&deg;
-* Axis 5: &plusmn;360&deg;
-* Axis 6: &plusmn;360&deg;
+## Technical Details
+
+1/4" tooling
+28,000 RPM spindle
+7" x 9" x 3.3" build volume
+4th axis compatible
+
+## Software
+https://www.bantamtools.com/software-download
 
 {: .fs-6 .fw-300 }
