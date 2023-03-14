@@ -24,7 +24,7 @@ RDF machines
 [![](../../assets/images/kr30.jpg)](technologies/kr30)
 [![](../../assets/images/ur10e.jpg)](technologies/ur10e)
 [![](../../assets/images/ur16e.jpg)](technologies/ur16e)
-[![](../../assets/images/xarm6.jpg)](technologies/xarm6)
+[![](../../assets/images/xarm.png)](technologies/xarm6)
 
 ## Robot End effectors
 
