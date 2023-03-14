@@ -46,7 +46,7 @@ RDF machines
 ## Milling and Cutting
 
 [![](../../assets/images/bantam.png)](technologies/bantamcnc)
-[![](../../assets/images/leadcnc.jpg)](technologies/leadcnc)
+[![](../../assets/images/leadcnc.png)](technologies/leadcnc)
 
 
 ## AR/VR
