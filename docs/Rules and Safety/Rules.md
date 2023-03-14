@@ -3,7 +3,7 @@ layout: default
 title: Rules and Safety
 nav_order: 2
 has_children: false
-permalink: labwiki/docs/rules
+permalink: /docs/rules
 ---
 
 # Lab rules & Safety
