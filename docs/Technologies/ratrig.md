@@ -7,10 +7,10 @@ Useful information for operation and maintenance of our Rat Rig 50x50x50.
 
 ## Sending print to Rat rig
 ### SUPERSLICER SETUP
-1. Download latest release of Super Slicer @luigipacheco add link to rat rig superslicer template
+1. Download latest release of Super Slicer [Download](https://ratrig.com/3d-printers/rat-rig-kits/v-core-3.html)
 2. Set up printer as RatRig-V-Core-3-500
 3. Set the filament to PETG / PLA
-4. Go tp printer settings and change following fan speeds
+4. Go to printer settings and change following fan speeds
 
 | Bridges fan speed | 40 |
 | ----------------- | -- |
