@@ -10,5 +10,15 @@ Useful information for operation and maintenance of our Rat Rig 50x50x50.
 - test
   - sub test
 
+## Sending print to Rat rig
+### SUPERSLICER SETUP
+1. Download latest release of Super Slicer @luigipacheco add link to rat rig superslicer template
+2. Set
 
-@luigipacheco add link to rat rig superslicer template
+### RAT RIG 
+1. Rat OS
+
+| IP address | 192.168.50.1 |
+| ---------- | ------------ |
+| Password   | raspberry    |
+
