@@ -40,7 +40,7 @@ RDF machines
 [![](../../assets/images/prusa3.jpg)](technologies/prusa3)
 [![](../../assets/images/formlab2.jpg)](technologies/formlab2)
 [![](../../assets/images/markforged.jpg)](technologies/markforged)
-[![](../../assets/images/vcore50.jpg)](technologies/vcore50)
+[![](../../assets/images/vcore50.jpg)](technologies/ratrig)
 [![](../../assets/images/bioprinter.jpg)](technologies/bioprinter)
 
 ## Milling and Cutting
