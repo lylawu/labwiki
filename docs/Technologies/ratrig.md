@@ -1,3 +1,10 @@
+---
+layout: default
+title: RatRig Vcore 50cm 
+nav_exclude: true
+has_children: false
+permalink: /docs/technologies/ratrig
+---
 # RatRig
 
 Useful information for operation and maintenance of our Rat Rig 50x50x50.
