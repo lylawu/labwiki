@@ -24,7 +24,7 @@ Heated build Chamber
 - Download [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
 
 
-## Printing Guidelines
+## Step-By-Step Printing Guide
 
 
 ## Fixing Errors
