@@ -20,6 +20,18 @@ FDM Desktop Fabrication
 Heated build Chamber  
 **Filament used:** PLA, PETG    
 
+## Setting up 3D-printing software on your computer (Prusa Slicer)
+- Download [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
+
+
+## Printing Guidelines
+
+
+## Fixing Errors
+- If filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
+  - Whenever you remove the printer bed and put it back on, make sure to recalibrate the bed!  
+
+
 ## Features
 
 - Magnetic bed with swappable steel sheets:
