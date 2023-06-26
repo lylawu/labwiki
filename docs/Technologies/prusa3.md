@@ -25,7 +25,7 @@ Heated build Chamber
 2. Once Prusa Slicer is installed, the configuration menu may pop up. If it doesn't, manually open it by going to Configuration -> Configuration Wizard in the top bar.
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/e5923246-407e-47d7-8aff-6ffebcc22e57)
 3. Go to Prusa FFF, select the Original Prusa I3 MK3, then press finish on the bottom left.
-![image](https://github.com/PKMN-Python/labwiki/assets/34625211/93bc3ce1-5852-42d8-a16b-62e9e8017b45)
+![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
 
 
 
