@@ -35,6 +35,10 @@ Heated build Chamber
 - If the filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
   - Whenever you remove the printer bed and put it back on, make sure to recalibrate the bed.
 - If you notice the nozzle is touching too close or too far from the bed when printing, you can adjust the height of the nozzle by changing the z-axis in the printer's configuration.
+![image](https://github.com/PKMN-Python/labwiki/assets/34625211/886305d4-9bbb-4025-80a8-3c757af3b8c3)
+![image](https://github.com/PKMN-Python/labwiki/assets/34625211/8cff9ae6-3740-4bf4-9194-b3389c5f075f)
+![image](https://github.com/PKMN-Python/labwiki/assets/34625211/082b2986-806d-4a18-bec7-9f3137492818)
+
 
 
 ## Features
