@@ -27,17 +27,13 @@ Heated build Chamber
 3. Go to Prusa FFF and select the Original Prusa I3 MK3. Then, press finish on the bottom left.
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
 
-
-
-
-
-
 ## Step-By-Step Printing Guide
 
 
+
 ## Fixing Errors
-- If filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
-  - Whenever you remove the printer bed and put it back on, make sure to recalibrate the bed!  
+- If the filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
+  - Whenever you remove the printer bed and put it back on, make sure to recalibrate the bed.
 
 
 ## Features
