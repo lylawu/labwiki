@@ -20,23 +20,28 @@ FDM Desktop Fabrication
 Heated build Chamber  
 **Filament used:** PLA, PETG    
 
-## Setting up 3D-printing software on your computer (Prusa Slicer)
-1. Download and install [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
-2. Once Prusa Slicer is installed, the configuration menu may pop up. If it doesn't, manually open it by going to Configuration --> Configuration Wizard in the top bar.
+## Setting up 3D-printing software on your computer (PrusaSlicer)
+1. Download and install [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+2. Once PrusaSlicer is installed, the configuration menu may pop up. If it doesn't, manually open it by going to Configuration --> Configuration Wizard in the top bar.
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/e5923246-407e-47d7-8aff-6ffebcc22e57)
 3. Go to Prusa FFF and select the Original Prusa I3 MK3. Then, press finish on the bottom left.
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
 
 ## Step-By-Step Printing Guide
-- Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model.
+- Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model. 
+1. Create a 3D model or find one online. You can find some on [thingiverse.com](www.thingiverse.com). We will be printing the [Calibration Cube](https://www.thingiverse.com/thing:1278865).
+Supported file types: STL, STEP, 3MF, OBJ, and AMF.
+2. Open the file in PrusaSlicer. You can either drag the file, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
+3. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size and between Quality/Speed/Draft/Detail settings. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. 
 
 
 ## Fixing Errors + [Calibration Guide](https://help.prusa3d.com/category/calibration_199) 
 - If the filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
   - Whenever you remove the printer bed and put it back on, make sure to recalibrate the bed.
 - If you notice the nozzle is touching too close or too far from the bed when printing, you can adjust the height of the nozzle by changing the z-axis in the printer's configuration.
-![image](https://github.com/PKMN-Python/labwiki/assets/34625211/886305d4-9bbb-4025-80a8-3c757af3b8c3)
+
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/8cff9ae6-3740-4bf4-9194-b3389c5f075f)
+![image](https://github.com/PKMN-Python/labwiki/assets/34625211/886305d4-9bbb-4025-80a8-3c757af3b8c3)
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/082b2986-806d-4a18-bec7-9f3137492818)
 
 
