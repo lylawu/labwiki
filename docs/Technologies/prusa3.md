@@ -21,7 +21,7 @@ Heated build Chamber
 **Filament used:** PLA, PETG    
 
 ## Setting up 3D-printing software on your computer (Prusa Slicer)
-- Download [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
+1. Download [Prusa Slicer](https://www.prusa3d.com/page/prusaslicer_424/)
 
 
 ## Step-By-Step Printing Guide
