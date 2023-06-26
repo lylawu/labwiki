@@ -28,12 +28,17 @@ Heated build Chamber
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
 
 ## Step-By-Step Printing Guide
-- Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model. 
+- Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model.
+  
 1. Create a 3D model or find one online. You can find some on [thingiverse.com](www.thingiverse.com). We will be printing the [Calibration Cube](https://www.thingiverse.com/thing:1278865).
 Supported file types: STL, STEP, 3MF, OBJ, and AMF.
-2. Open the file in PrusaSlicer. You can either drag the file, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
-3. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size and between Quality/Speed/Draft/Detail settings. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. 
 
+3. Open the file in PrusaSlicer. You can either drag the file, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
+![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true)
+
+4. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size and between Quality/Speed/Draft/Detail settings. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. 
+
+![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl5Mmx1eG82bTZ6MzhnczB3ZW9wNDJvaTdqcmxvZTZxaWg0cjNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgZjfdCHE1pMLILphx/giphy.gif)
 
 ## Fixing Errors + [Calibration Guide](https://help.prusa3d.com/category/calibration_199) 
 - If the filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
