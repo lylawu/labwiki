@@ -28,7 +28,7 @@ Heated build Chamber
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
 
 ## Step-By-Step Printing Guide
-- Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics.
+- Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D-model.
 
 
 ## Fixing Errors
