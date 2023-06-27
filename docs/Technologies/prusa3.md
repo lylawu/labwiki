@@ -49,7 +49,7 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 
 5. Once your model and print settings are finalized, press Slice Now at the bottom left of the screen. You should be able to see the supports and check how the infill looks in your model.
    
-6. Plug in the SD card from the printer into your computer. Export the file to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. Now, eject your SD card.
+6. Plug in the SD card from the printer into your computer. Export the file to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. It is recommended that you rename the file and make it clear. Now, eject your SD card.
 
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa6.gif?raw=true)
 7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). 
