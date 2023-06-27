@@ -43,7 +43,7 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 <img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" width="720" height="400" />
 
 4. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size, quality, and amount of infill. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. For this demonstration, we will be using the default setting. 
-<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa5.gif?raw=true" width="720" height="400" />
+![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa5.gif?raw=true)
 
 
 5. Once your model and print settings are finalized, press Slice Now at the bottom left of the screen. You should be able to see the supports and check how the infill looks in your model.
