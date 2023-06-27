@@ -20,6 +20,8 @@ FDM Desktop Fabrication
 Heated build Chamber  
 **Filament used:** PLA, PETG    
 
+Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manual_mk3s_en.pdf#_ga=2.238010112.1277322509.1687747893-905613141.1686940624)
+
 ## Setting up 3D-printing software on your computer (PrusaSlicer)
 1. Download and install [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
    
@@ -38,7 +40,7 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/28e39244-6b1e-420c-9380-94186f0fab28)
 
 
-3. Open the file in PrusaSlicer. If you file is in a zip, you must unzip it to access it. You can either drag the file from your downloads to PrusaSlicer, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
+3. Open the file in PrusaSlicer. If your file is in a zip, you must unzip it to access it. You can either drag the file from your downloads to PrusaSlicer, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
    
 <img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" width="720" height="400" />
 
@@ -52,7 +54,10 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 6. Plug in the SD card from the printer into your computer. Export the file to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. It is recommended that you rename the file and make it clear. Now, eject your SD card.
 
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa6.gif?raw=true)
-7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). 
+7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). On the screen, scroll down to your print by rotating the control knob. Press the knob to select. Press again to bypass any firmware notices. The bed will now heat up, and the print should start in a few minutes.
+
+![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa7.gif?raw=true)
+
 
 ## Fixing Errors + [Calibration Guide](https://help.prusa3d.com/category/calibration_199) 
 - If the filament is not sticking to the printer bed, remove the bed and clean it with rubbing alcohol.
