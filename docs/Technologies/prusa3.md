@@ -26,7 +26,7 @@ Heated build Chamber
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/e5923246-407e-47d7-8aff-6ffebcc22e57)
 3. Go to Prusa FFF and select the Original Prusa I3 MK3. Then, press finish on the bottom left.
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
-<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" width="400" height="400" />
+<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" width="720" height="400" />
 
 ## Step-By-Step Printing Guide
 - Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model.
