@@ -35,7 +35,7 @@ Supported file types: STL, STEP, 3MF, OBJ, and AMF.
 
 3. Open the file in PrusaSlicer. You can either drag the file, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
    
-<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" width="720" height="400" />
+<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" width="720" height="400" />
 
 4. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size, quality, and amount of infill. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. For this demonstration, we will be using the default setting. 
 <img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" width="720" height="400" />
