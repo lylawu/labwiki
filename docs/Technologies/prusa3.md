@@ -49,14 +49,18 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa5.gif?raw=true)
 
 
-5. Once your model and print settings are finalized, press Slice Now at the bottom left of the screen. You should be able to see the supports and check how the infill looks in your model.
+5. Once your model and print settings are finalized, press Slice Now at the bottom left of the screen. You should be able to see the supports and check how the infill looks in your model. You can also see the estimated print time.
    
 6. Plug in the SD card from the printer into your computer. Export the file to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. It is recommended that you rename the file and make it clear. Now, eject your SD card.
 
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa6.gif?raw=true)
-7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). On the screen, scroll down to your print by rotating the control knob. Press the knob to select. Press again to bypass any firmware notices. The bed will now heat up, and the print should start in a few minutes.
+7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). On the screen, scroll down to your print by rotating the control knob. Press the knob to select. Press again to bypass any firmware notices. The bed will now heat up, and the print should start in a few minutes. You should see the estimated print time on the right.
 
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa7.gif?raw=true)
+
+8. Once your print has finished, wait until the bed has cooled down to room temperature, as this makes it easier for the print to come off. Use a spatula to take out the print or remove the bed and slightly flex it to separate the print from the bed.
+   
+9. If your print has supports, you can remove them with tweezers.
 
 
 ## Fixing Errors + [Calibration Guide](https://help.prusa3d.com/category/calibration_199) 
