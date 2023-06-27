@@ -26,7 +26,6 @@ Heated build Chamber
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/e5923246-407e-47d7-8aff-6ffebcc22e57)
 3. Go to Prusa FFF and select the Original Prusa I3 MK3. Then, press finish on the bottom left.
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
-<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" width="720" height="400" />
 
 ## Step-By-Step Printing Guide
 - Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model.
@@ -36,7 +35,7 @@ Supported file types: STL, STEP, 3MF, OBJ, and AMF.
 
 3. Open the file in PrusaSlicer. You can either drag the file, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
    
-![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true)
+<img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true" width="720" height="400" />
 
 4. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size, quality, and amount of infill. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. For this demonstration, we will be using the default setting. 
 
@@ -44,6 +43,7 @@ Supported file types: STL, STEP, 3MF, OBJ, and AMF.
 6. Plug in the SD card from the printer into your computer. Export the fil to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. Now, eject your SD card.
 
 ![image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl5Mmx1eG82bTZ6MzhnczB3ZW9wNDJvaTdqcmxvZTZxaWg0cjNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgZjfdCHE1pMLILphx/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl5Mmx1eG82bTZ6MzhnczB3ZW9wNDJvaTdqcmxvZTZxaWg0cjNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgZjfdCHE1pMLILphx/giphy.gif" data-canonical-src="[https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa5.gif?raw=true](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl5Mmx1eG82bTZ6MzhnczB3ZW9wNDJvaTdqcmxvZTZxaWg0cjNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgZjfdCHE1pMLILphx/giphy.gif)" width="720" height="400" />
 
 7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). 
 
