@@ -22,9 +22,11 @@ Heated build Chamber
 
 ## Setting up 3D-printing software on your computer (PrusaSlicer)
 1. Download and install [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
+   
 2. Once PrusaSlicer is installed, the configuration menu may pop up. If it doesn't, manually open it by going to Configuration --> Configuration Wizard in the top bar.
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/e5923246-407e-47d7-8aff-6ffebcc22e57)
-3. Go to Prusa FFF and select the Original Prusa I3 MK3. Then, press finish on the bottom left.
+
+3. Go to Prusa FFF and select the Original Prusa I3 MK3 & MKS3+. Then, press finish on the bottom left.
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa1.gif?raw=true)
 
 ## Step-By-Step Printing Guide
