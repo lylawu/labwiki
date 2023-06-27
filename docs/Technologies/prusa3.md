@@ -33,6 +33,9 @@ Heated build Chamber
 1. Create a 3D model or find one online. You can find some on [thingiverse.com](www.thingiverse.com). We will be printing the [Calibration Cube](https://www.thingiverse.com/thing:1278865).
 Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 
+![image](https://github.com/PKMN-Python/labwiki/assets/34625211/28e39244-6b1e-420c-9380-94186f0fab28)
+
+
 3. Open the file in PrusaSlicer. If you file is in a zip, you must unzip it to access it. You can either drag the file from your downloads to PrusaSlicer, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
    
 <img src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" data-canonical-src="https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa4.gif?raw=true" width="720" height="400" />
