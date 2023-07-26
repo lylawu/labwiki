@@ -38,7 +38,7 @@ Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manua
 1. Create a 3D model or find one online. You can find some on [thingiverse.com](www.thingiverse.com). We will be printing the [Calibration Cube](https://www.thingiverse.com/thing:1278865).
 Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 
-![Prusa](/assets/images/Prusa - CalibrationCube.jpg)
+![Calibration Cube](/assets/images/CalibrationCube.jpg)
 
 
 3. Open the file in PrusaSlicer. If your file is in a zip, you must unzip it to access it. You can either drag the file from your downloads to PrusaSlicer, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
@@ -47,17 +47,17 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 
 4. Your model should now be in PrusaSlicer. Make sure the filament selected is PETG (unless you are using a different filament). You may want to edit your model's position or change some print settings, such as the nozzle size, quality, and amount of infill. If your model is tall and overhangs, it is recommended that you go to Print Settings --> Support Material --> and toggle Generate Support Material on. For this demonstration, we will be using the default settings.
    
-![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/prusa5.gif?raw=true)
-
+![Prusa](/assets/images/prusa5.gif)
 
 5. Once your model and print settings are finalized, press Slice Now at the bottom left of the screen. You should be able to see the supports and check how the infill looks in your model. You can also see the estimated print time.
    
 6. Plug in the SD card from the printer into your computer. Export the file to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. It is recommended that you rename the file and make it clear. Now, eject your SD card.
 
-![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa6.gif?raw=true)
+![Prusa](/assets/images/Prusa6.png)
+
 7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). On the screen, scroll down to your print by rotating the control knob. Press the knob to select. Press again to bypass any firmware notices. The bed will now heat up, and the print should start in a few minutes. You should see the estimated print time on the right.
 
-![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa7.gif?raw=true)
+![Prusa](/assets/images/Prusa7.gif)
 
 8. Once your print has finished, wait until the bed has cooled down to room temperature, as this makes it easier for the print to come off. Use a spatula to take out the print or remove the bed and slightly flex it to separate the print from the bed.
    
@@ -69,9 +69,9 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 - If you switch out a steel sheet for another type, make sure to re-calibrate the bed.
 - If you notice the nozzle is touching too close or too far from the bed when printing, you can adjust the height of the nozzle by changing the z-axis in the printer's configuration or live adjust the z-axis while printing.
 
-![image](https://github.com/PKMN-Python/labwiki/assets/34625211/8cff9ae6-3740-4bf4-9194-b3389c5f075f)
-![image](https://github.com/PKMN-Python/labwiki/assets/34625211/886305d4-9bbb-4025-80a8-3c757af3b8c3)
-![image](https://github.com/PKMN-Python/labwiki/assets/34625211/082b2986-806d-4a18-bec7-9f3137492818)
+![Prusa](/assets/images/prusaIssue1.png)
+![Prusa](/assets/images/prusaIssue2.png)
+![Prusa](/assets/images/prusaIssue3.png)
 
 
 
