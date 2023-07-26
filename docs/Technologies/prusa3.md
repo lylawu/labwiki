@@ -26,12 +26,9 @@ Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manua
 1. Download and install [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
    
 2. Once PrusaSlicer is installed, the configuration menu may pop up. If it doesn't, manually open it by going to Configuration --> Configuration Wizard in the top bar.
-![Prusa](/assets/images/prusa3.jpg)
-![Prusa](/assets/images/prusa0.png)
 
 4. Go to Prusa FFF and select the Original Prusa I3 MK3 & MKS3+. Then, press finish on the bottom left.
-[![](../../assets/images/prusa1.jpg)](technologies/prusa3)
-![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa1.gif?raw=true)
+![Prusa](/assets/images/prusa1.gif)
 
 ## Step-By-Step Printing Guide
 - Here is a [PrusaSlicer Beginner Tutorial](https://www.youtube.com/watch?v=_kIqMPNQNSw) that will teach you the basics. The following bullet points will also serve as a guide to printing your first 3D model.
@@ -39,7 +36,9 @@ Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manua
 1. Create a 3D model or find one online. You can find some on [thingiverse.com](www.thingiverse.com). We will be printing the [Calibration Cube](https://www.thingiverse.com/thing:1278865).
 Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 
-![image](https://github.com/PKMN-Python/labwiki/assets/34625211/28e39244-6b1e-420c-9380-94186f0fab28)
+![Prusa](/assets/images/prusa0.png)
+
+![Prusa](/assets/images/Prusa-CalibrationCube.jpg)
 
 
 3. Open the file in PrusaSlicer. If your file is in a zip, you must unzip it to access it. You can either drag the file from your downloads to PrusaSlicer, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
