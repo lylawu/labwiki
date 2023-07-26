@@ -26,9 +26,11 @@ Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manua
 1. Download and install [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
    
 2. Once PrusaSlicer is installed, the configuration menu may pop up. If it doesn't, manually open it by going to Configuration --> Configuration Wizard in the top bar.
+[![](../../assets/images/prusa0.jpg)](technologies/prusa3)
 ![image](https://github.com/PKMN-Python/labwiki/assets/34625211/e5923246-407e-47d7-8aff-6ffebcc22e57)
 
-3. Go to Prusa FFF and select the Original Prusa I3 MK3 & MKS3+. Then, press finish on the bottom left.
+4. Go to Prusa FFF and select the Original Prusa I3 MK3 & MKS3+. Then, press finish on the bottom left.
+[![](../../assets/images/prusa1.jpg)](technologies/prusa3)
 ![image](https://github.com/PKMN-Python/labwiki/blob/main/assets/images/Prusa1.gif?raw=true)
 
 ## Step-By-Step Printing Guide
