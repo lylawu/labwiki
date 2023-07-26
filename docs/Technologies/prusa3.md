@@ -53,7 +53,7 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
    
 6. Plug in the SD card from the printer into your computer. Export the file to your SD Card by either doing CTRL + U or going to File --> Export --> Export G-Code to SD Card. It is recommended that you rename the file and make it clear. Now, eject your SD card.
 
-![Prusa](/assets/images/Prusa6.png)
+![Prusa](/assets/images/Prusa6.gif)
 
 7. You are now ready to print! Bring your SD Card and plug it into the printer (on the left side of the control screen). On the screen, scroll down to your print by rotating the control knob. Press the knob to select. Press again to bypass any firmware notices. The bed will now heat up, and the print should start in a few minutes. You should see the estimated print time on the right.
 
