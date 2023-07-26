@@ -38,7 +38,7 @@ Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manua
 1. Create a 3D model or find one online. You can find some on [thingiverse.com](www.thingiverse.com). We will be printing the [Calibration Cube](https://www.thingiverse.com/thing:1278865).
 Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 
-![Prusa](/assets/images/Prusa-CalibrationCube.jpg)
+![Prusa](/assets/images/Prusa - CalibrationCube.jpg)
 
 
 3. Open the file in PrusaSlicer. If your file is in a zip, you must unzip it to access it. You can either drag the file from your downloads to PrusaSlicer, use CTRL + I, or import it by going to File --> Import --> Import STL/3MF/STEP/OBJ/AMF/PRUSA
