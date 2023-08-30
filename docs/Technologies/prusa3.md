@@ -64,7 +64,7 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 9. If your print has supports, you can remove them with tweezers.
 
 
-## Fixing Errors + [Calibration Guide](https://help.prusa3d.com/category/calibration_199) 
+## Troubleshooting + [Calibration Guide](https://help.prusa3d.com/category/calibration_199) 
 - If the filament is not sticking to the printer bed, remove the sheet and clean it with rubbing alcohol.
 - If you switch out a steel sheet for another type, make sure to re-calibrate the bed.
 - If you notice the nozzle is touching too close or too far from the bed when printing, you can adjust the height of the nozzle by changing the z-axis in the printer's configuration or live adjust the z-axis while printing.
