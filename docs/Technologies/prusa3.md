@@ -18,9 +18,31 @@ FDM Desktop Fabrication
 **Model:** Original Prusa i3 MK3  
 **Brand:** Prusa Research  
 Heated build Chamber  
-**Filament used:** PLA, PETG    
+**Build Volumn:** 25×21×21 cm (9.84"×8.3"×8.3")
+**Nozzle:** 0.4mm default, other diameters supported
+**Filament used:** PLA, PETG, ASA, ABS, PC (Polycarbonate), CPE, PVA/BVOH, PVB, HIPS, PP (Polypropylene), Flex, nGen, Nylon, Carbon filled, Woodfill and other filled materials.
+**Filament diameters:** 1.75 mm
+**Printer dimensions:** ( without spool) 7 kg, 500×550×400 mm; 19.6×21.6×15.7 in (X×Y×Z)
+**Max travel speed:** 200+ mm/s
+**Max heatbed temperature:**  120 °C / 248 °F 
+**Max nozzle temperature:** 300 °C / 572 °F
+**Print Surface:** Removable magnetic steel sheets(*) with different surface finishes, heatbed with cold corners compensation
+**Power consumption:** PLA settings: 80W / ABS settings: 120W
 
 Official Handbook: [Here](https://cdn.prusa3d.com/downloads/manual/prusa3d_manual_mk3s_en.pdf#_ga=2.238010112.1277322509.1687747893-905613141.1686940624)
+
+## How to prepare a printable file in Rhino
+1. Check for errors: Make sure the model fits within the Prusa i3’s build volume. Use Rhino’s built-in tools to check for manifold issues, close holes or broken surfaces, open edges, duplicated surfaces. 
+2. Scale: Make sure your object is properly scaled. Prusa i3 usually reads dimensions in millimeters.
+3. Orientation: Position your object in a way that minimizes the need for support structures and maximizes print quality.
+4. Wall Thickness: Ensure that your model has adequate wall thickness to support the structure during and after printing.
+5. Join and Unify Normals: If your model consists of multiple parts, join them together into a single watertight mesh. Make sure the normals are unified.
+6. Test for Printability: Use Rhino’s Check command to evaluate the geometry for any flaws or issues that could affect print quality.
+7. Export: Go to File > Export Selected, and choose the STL (.stl) format from the options. This is a commonly used file format for 3D printing.
+8. STL Export Options: In the dialog that appears, you'll usually want to select “Binary” for smaller file sizes, and ensure that your units are set to millimeters.
+9. Mesh Settings: Depending on the quality you desire, you might have to tweak the mesh settings. Higher mesh densities often result in higher quality prints but increase file size.
+10. Save: Name your file and choose a location to save it.
+
 
 ## Setting up 3D-printing software on your computer (PrusaSlicer)
 1. Download and install [PrusaSlicer](https://www.prusa3d.com/page/prusaslicer_424/)
@@ -136,6 +158,6 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 | Wall thickness                | 1.2mm (3 lines)       |
 
 
-
+# Postproduction
 
 {: .fs-6 .fw-300 }
