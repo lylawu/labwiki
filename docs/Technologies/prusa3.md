@@ -95,6 +95,9 @@ Supported file types are: STL, STEP, 3MF, OBJ, and AMF.
 ![Prusa](/assets/images/prusaIssue2.png)
 ![Prusa](/assets/images/prusaIssue3.png)
 
+## How to load and unload filament on Prusa i3?
+[Prusa i3 MK2 Quick Tip 005: Loading Filament - Bing video](https://www.bing.com/videos/search?q=Prusa+i3+loading+filament&view=detail&mid=CDED7A958C79FFCB8984CDED7A958C79FFCB8984&FORM=VIRE)
+How To Load Filament in Prusa i3 (https://help.prusa3d.com/article/manual-temperature-calibration_2232)
 
 
 ## Features
